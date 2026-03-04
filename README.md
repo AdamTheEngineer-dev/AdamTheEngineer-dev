@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning PyFluent
 - 💞️ I’m looking to collaborate on PyFluent
 - 📫 How to reach me adam.theengineer.anderson@gmail.com
-- 📫 How to reach me adam.anderson@ansys.com
+- 📫 How to reach me aanderso@synopsys.com
 
 <!---
 AdamTheEngineer-dev/AdamTheEngineer-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
